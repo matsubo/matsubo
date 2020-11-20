@@ -1,6 +1,9 @@
 # Yuki Matsukura
 Hi, I'm Yuki —CTO at Minedia, Inc. working on creating new services to world better. I live in Tokyo, Japan and am a Japan native. 🙌 I'm a huge fan of DSLR, racing cars, triathlon and amature radio. 💕
 
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zizi4n5)
+
+
 ## My values
 💖 Safety and trust<br>
 🌟 Expression as authentic self<br>
