@@ -23,6 +23,8 @@ Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free t
 - Photo: https://500px.com/matsubokkuri
 
 ## My own service
-- [Covid-19 updates](https://covid19.teraren.com/)
+
+- [Japan railload and stations API](https://train.teraren.com/)
+- [Covid-19 daily new case graph post](https://covid19.teraren.com/)
 - [Japan Postcode API](https://postcode.teraren.com/)
 - [Japan bank code API](https://bank.teraren.com/)
