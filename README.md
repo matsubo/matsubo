@@ -28,3 +28,4 @@ Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free t
 - [Covid-19 daily new case graph post](https://covid19.teraren.com/)
 - [Japan Postcode API](https://postcode.teraren.com/)
 - [Japan bank code API](https://bank.teraren.com/)
+- [A.D. <=> Japanese Calendar](https://seireki.teraren.com/)
