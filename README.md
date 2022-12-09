@@ -1,7 +1,10 @@
 # Yuki Matsukura
 Hi, I'm Yuki —CTO at Minedia, Inc. working on creating new services to world better. I live in Tokyo, Japan and am a Japan native. 🙌 I'm a huge fan of DSLR, racing cars, triathlon and amature radio. 💕
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=matsubo&count_private=true&theme=dracula)
+<div style="display: flex">
+<img src="https://github-readme-stats.vercel.app/api?username=matsubo&count_private=true&theme=dracula" width="40%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=matsubo" width="40%"/>
+</div>
 
 
 ## My values
