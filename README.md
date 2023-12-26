@@ -20,7 +20,7 @@ Hi, I'm Yuki —CTO at Minedia, Inc. working on creating new services to world b
 | ![image](https://github.com/matsubo/matsubo/assets/98103/36d7bb33-b50f-471b-9157-2ef13cfd9b59) | Bank code API service     | [bank.teraren.com](https://bank.teraren.com/)       | Ruby 3.3 + Ruby on Rails 7.1 + Cloudflare, SQLite, Rest API |
 | ![image](https://github.com/matsubo/matsubo/assets/98103/a5d9a168-cfa5-4c15-9aee-fe809a9eff59) | Corporation API service   | [corporation.teraren.com](https://corporation.teraren.com/) | Ruby 3.3 + Ruby on Rails 7.1 + Cloudflare, MySQL 8, Rest API |
 | ![image](https://github.com/matsubo/matsubo/assets/98103/a5d9a168-cfa5-4c15-9aee-fe809a9eff59) | Train and Station API service   | [train.teraren.com](https://train.teraren.com/) | Ruby 3.3 + Ruby on Rails 7.1 + Cloudflare, MySQL 8, Rest API |
-| ![image](https://github.com/matsubo/matsubo/assets/98103/a5d9a168-cfa5-4c15-9aee-fe809a9eff59) | Covid 19 positive graph  | [covid19.teraren.com](https://covid19.teraren.com/) | Ruby 3.3 + Wordpress + Cloudflare, MySQL 8|
+| ![image](https://github.com/matsubo/matsubo/assets/98103/a5d9a168-cfa5-4c15-9aee-fe809a9eff59) | Covid 19 positive graph  | [covid19.teraren.com](https://covid19.teraren.com/) | Ruby 3.0 + Wordpress + Cloudflare, MySQL 8|
 | ![image](https://github.com/matsubo/matsubo/assets/98103/a5d9a168-cfa5-4c15-9aee-fe809a9eff59) | A.D. <=> Japanese Calendar  | [seireki.teraren.com](https://seireki.teraren.com/) | Ruby 3.3 + Ruby on Rails 7.1 +  Cloudflare |
 
 WIP
