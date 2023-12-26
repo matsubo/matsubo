@@ -1,7 +1,15 @@
 # Yuki Matsukura
-Hi, I'm Yuki —CTO at Minedia, Inc. working on creating new services to world better. I live in Tokyo, Japan and am a Japan native. 🙌 I'm a huge fan of DSLR, racing cars, triathlon and amature radio. 💕
 
-<img src="https://github-readme-stats.vercel.app/api?username=matsubo&count_private=true&theme=dracula" width="40%">
+[![github pv](https://komarev.com/ghpvc/?username=matsubo)](https://github.com/matsubo)
+[![github pv](https://img.shields.io/github/followers/matsubo?label=follow&logo=github&style=flat)](https://github.com/matsubo)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/matsubo/posts.svg)](http://qiita.com/matsubo)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/matsubo/contributions.svg)](http://qiita.com/matsubo)
+[![Likes](https://badgen.org/img/zenn/matsubokkuri/likes?style=plastic)](https://zenn.dev/matsubokkuri)
+[![Articles](https://badgen.org/img/zenn/matsubokkuri/articles?style=plastic)](https://zenn.dev/matsubokkuri)
+[![Scraps](https://badgen.org/img/zenn/matsubokkuri/scraps?style=plastic)](https://zenn.dev/matsubokkuri?tab=scraps)
+
+Hi, I'm Yuki —CTO at Minedia, Inc. working on creating new services to world better. I live in Tokyo, Japan and am a Japan native. 🙌 I'm a huge fan of DSLR, racing cars, triathlon and amature radio. 
+
 
 ## Developed apps
 
