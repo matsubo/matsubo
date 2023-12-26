@@ -19,9 +19,9 @@ Hi, I'm Yuki —CTO at Minedia, Inc. working on creating new services to world b
 | ![image](https://github.com/matsubo/matsubo/assets/98103/6a612b1d-6057-49b1-883e-09956a6c0793) | Postcode API service      | [postcode.teraren.com](https://postcode.teraren.com/) | Ruby 3.3 + Ruby on Rails 7.1 + Cloudflare, SQLite, Rest API + GraphQL |
 | ![image](https://github.com/matsubo/matsubo/assets/98103/36d7bb33-b50f-471b-9157-2ef13cfd9b59) | Bank code API service     | [bank.teraren.com](https://bank.teraren.com/)       | Ruby 3.3 + Ruby on Rails 7.1 + Cloudflare, SQLite, Rest API |
 | ![image](https://github.com/matsubo/matsubo/assets/98103/a5d9a168-cfa5-4c15-9aee-fe809a9eff59) | Corporation API service   | [corporation.teraren.com](https://corporation.teraren.com/) | Ruby 3.3 + Ruby on Rails 7.1 + Cloudflare, MySQL 8, Rest API |
-| ![image](https://github.com/matsubo/matsubo/assets/98103/a5d9a168-cfa5-4c15-9aee-fe809a9eff59) | Train and Station API service   | [train.teraren.com](https://train.teraren.com/) | Ruby 3.3 + Ruby on Rails 7.1 + Cloudflare, MySQL 8, Rest API |
-| ![image](https://github.com/matsubo/matsubo/assets/98103/a5d9a168-cfa5-4c15-9aee-fe809a9eff59) | Covid 19 positive graph  | [covid19.teraren.com](https://covid19.teraren.com/) | Ruby 3.0 + Wordpress + Cloudflare, MySQL 8|
-| ![image](https://github.com/matsubo/matsubo/assets/98103/a5d9a168-cfa5-4c15-9aee-fe809a9eff59) | A.D. <=> Japanese Calendar  | [seireki.teraren.com](https://seireki.teraren.com/) | Ruby 3.3 + Ruby on Rails 7.1 +  Cloudflare |
+| ![image](https://github.com/matsubo/matsubo/assets/98103/af5ee2a7-d2f9-4b04-aecb-d4e859da39df) | Train and Station API service   | [train.teraren.com](https://train.teraren.com/) | Ruby 3.3 + Ruby on Rails 7.1 + Cloudflare, MySQL 8, Rest API |
+| ![image](https://github.com/matsubo/matsubo/assets/98103/2dd90f80-587c-473d-94fb-c8ca3132fa17) | Covid 19 positive graph  | [covid19.teraren.com](https://covid19.teraren.com/) | Ruby 3.0 + Wordpress + Cloudflare, MySQL 8|
+| ![image](https://github.com/matsubo/matsubo/assets/98103/f7817421-60ad-4c68-ada5-0029583c2c77) | A.D. <=> Japanese Calendar  | [seireki.teraren.com](https://seireki.teraren.com/) | Ruby 3.3 + Ruby on Rails 7.1 +  Cloudflare |
 
 WIP
 
