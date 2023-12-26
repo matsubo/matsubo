@@ -3,6 +3,20 @@ Hi, I'm Yuki —CTO at Minedia, Inc. working on creating new services to world b
 
 <img src="https://github-readme-stats.vercel.app/api?username=matsubo&count_private=true&theme=dracula" width="40%">
 
+## Developed apps
+
+
+| Image                                                                                         | Service Name              | Website                       | Technology Stack                                 |
+|-----------------------------------------------------------------------------------------------|---------------------------|--------------------------------|--------------------------------------------------|
+| ![image](https://github.com/matsubo/matsubo/assets/98103/6a612b1d-6057-49b1-883e-09956a6c0793) | Postcode API service      | [postcode.teraren.com](https://postcode.teraren.com/) | Ruby 3.3 + Ruby on Rails 7.1 + Cloudflare, SQLite, Rest API + GraphQL |
+| ![image](https://github.com/matsubo/matsubo/assets/98103/36d7bb33-b50f-471b-9157-2ef13cfd9b59) | Bank code API service     | [bank.teraren.com](https://bank.teraren.com/)       | Ruby 3.3 + Ruby on Rails 7.1 + Cloudflare, SQLite, Rest API |
+| ![image](https://github.com/matsubo/matsubo/assets/98103/a5d9a168-cfa5-4c15-9aee-fe809a9eff59) | Corporation API service   | [corporation.teraren.com](https://corporation.teraren.com/) | Ruby 3.3 + Ruby on Rails 7.1 + Cloudflare, MySQL 8, Rest API |
+| ![image](https://github.com/matsubo/matsubo/assets/98103/a5d9a168-cfa5-4c15-9aee-fe809a9eff59) | Train and Station API service   | [train.teraren.com](https://train.teraren.com/) | Ruby 3.3 + Ruby on Rails 7.1 + Cloudflare, MySQL 8, Rest API |
+| ![image](https://github.com/matsubo/matsubo/assets/98103/a5d9a168-cfa5-4c15-9aee-fe809a9eff59) | Covid 19 positive graph  | [covid19.teraren.com](https://covid19.teraren.com/) | Ruby 3.3 + Wordpress + Cloudflare, MySQL 8|
+| ![image](https://github.com/matsubo/matsubo/assets/98103/a5d9a168-cfa5-4c15-9aee-fe809a9eff59) | A.D. <=> Japanese Calendar  | [seireki.teraren.com](https://seireki.teraren.com/) | Ruby 3.3 + Ruby on Rails 7.1 +  Cloudflare |
+
+WIP
+
 
 ### GitHub Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matsubo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
@@ -32,10 +46,12 @@ Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free t
 - Food/Travel IG: https://instagram.com/matsubobo
 - Photo: https://500px.com/matsubokkuri
 
-## My own service
+## Links
 
-- [Japan railload and stations API](https://train.teraren.com/)
-- [Covid-19 daily new case graph post](https://covid19.teraren.com/)
-- [Japan Postcode API](https://postcode.teraren.com/)
-- [Japan bank code API](https://bank.teraren.com/)
-- [A.D. <=> Japanese Calendar](https://seireki.teraren.com/)
+- Tech article
+  - https://zenn.dev/matsubokkuri
+- Blog
+  - https://matsu.teraren.com/blog/
+- Diary
+  - https://diary.teraren.com/
+  
