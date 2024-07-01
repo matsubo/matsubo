@@ -23,8 +23,9 @@ Hi, I'm Yuki —CTO at Minedia, Inc. working on creating new services to world b
 | ![image](https://github.com/matsubo/matsubo/assets/98103/af5ee2a7-d2f9-4b04-aecb-d4e859da39df) | School API service   | [school.teraren.com](https://school.teraren.com/) | Ruby 3.3 + Ruby on Rails 7.1 + Cloudflare, SQLite, Rest API |
 | <img src="https://github.com/matsubo/matsubo/assets/98103/2dd90f80-587c-473d-94fb-c8ca3132fa17" width="48"> | Covid 19 positive graph  | [covid19.teraren.com](https://covid19.teraren.com/) | Ruby 3.0 + Wordpress + Cloudflare, MySQL 8|
 | <img src="https://github.com/matsubo/matsubo/assets/98103/f7817421-60ad-4c68-ada5-0029583c2c77" width="48"> | A.D. <=> Japanese Calendar  | [seireki.teraren.com](https://seireki.teraren.com/) | Ruby 3.3 + Ruby on Rails 7.1 +  Cloudflare |
-| <img src="https://github.com/matsubo/matsubo/assets/98103/f7817421-60ad-4c68-ada5-0029583c2c77" width="48"> | Roulette strategy simulator | https://github.com/matsubo/roulett-strategy-simulator | Ruby 3.3 + Gnuplot |
+| ![r48x48](https://github.com/matsubo/matsubo/assets/98103/3a564a84-717a-4fe6-8651-0ba85c3e0ba9) | Roulette strategy simulator | https://github.com/matsubo/roulett-strategy-simulator | Ruby 3.3 + Gnuplot |
 | ![04563d34-cf6c-4be2-9418-5da174a26505](https://github.com/matsubo/matsubo/assets/98103/ce2ce477-0f05-4ce0-856a-fe7294ba4027) | Mackerel plugin for APC UPS stats | [https://github.com/matsubo/roulett-strategy-simulator](https://github.com/matsubo/mackerel-plugin-apcupsd) | Golang |
+
 
 
 
