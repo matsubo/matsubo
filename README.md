@@ -24,7 +24,7 @@ Hi, I'm Yuki —CTO at Minedia, Inc. working on creating new services to world b
 | <img src="https://github.com/matsubo/matsubo/assets/98103/2dd90f80-587c-473d-94fb-c8ca3132fa17" width="48"> | Covid 19 positive graph  | [covid19.teraren.com](https://covid19.teraren.com/) | Ruby 3.0 + Wordpress + Cloudflare, MySQL 8|
 | <img src="https://github.com/matsubo/matsubo/assets/98103/f7817421-60ad-4c68-ada5-0029583c2c77" width="48"> | A.D. <=> Japanese Calendar  | [seireki.teraren.com](https://seireki.teraren.com/) | Ruby 3.3 + Ruby on Rails 7.1 +  Cloudflare |
 | ![r48x48](https://github.com/matsubo/matsubo/assets/98103/3a564a84-717a-4fe6-8651-0ba85c3e0ba9) | Roulette strategy simulator | https://github.com/matsubo/roulett-strategy-simulator | Ruby 3.3 + Gnuplot |
-| ![04563d34-cf6c-4be2-9418-5da174a26505](https://github.com/matsubo/matsubo/assets/98103/ce2ce477-0f05-4ce0-856a-fe7294ba4027) | Mackerel plugin for APC UPS stats | [https://github.com/matsubo/roulett-strategy-simulator](https://github.com/matsubo/mackerel-plugin-apcupsd) | Golang |
+| ![04563d34-cf6c-4be2-9418-5da174a26505](https://github.com/matsubo/matsubo/assets/98103/ce2ce477-0f05-4ce0-856a-fe7294ba4027) | Mackerel plugin for APC UPS stats | [https://github.com/matsubo/mackerel-plugin-apcupsd](https://github.com/matsubo/mackerel-plugin-apcupsd) | Golang |
 | <img src="https://github.com/user-attachments/assets/0a118ccc-fce3-4689-9b84-db99e469c780" width="48"> | Triathlon Time Tracker | [https://sado-xi.vercel.app/](https://sado-xi.vercel.app/)| Front: React, Back: Python, Ruby, Gist |
 
 
@@ -52,8 +52,8 @@ That tends to manifest as creating (hopefully) just enough process.
 Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
 
 ## Get in touch
-- Twitter: https://twitter.com/matsubokkuri
-- Tech blog: https://matsu.teraren.com/
+- Twitter: https://x.com/matsubokkuri
+- Tech blog: https://bkog.teraren.com/
 - Food/Travel IG: https://instagram.com/matsubobo
 - Photo: https://500px.com/matsubokkuri
 
@@ -62,7 +62,7 @@ Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free t
 - Tech article
   - https://zenn.dev/matsubokkuri
 - Blog
-  - https://matsu.teraren.com/blog/
+  - https://blog.teraren.com/
 - Diary
   - https://diary.teraren.com/
   
