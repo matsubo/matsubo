@@ -26,6 +26,8 @@ Hi, I'm Yuki —CTO at Minedia, Inc. working on creating new services to world b
 | ![r48x48](https://github.com/matsubo/matsubo/assets/98103/3a564a84-717a-4fe6-8651-0ba85c3e0ba9) | Roulette strategy simulator | https://github.com/matsubo/roulett-strategy-simulator | Ruby 3.3 + Gnuplot |
 | ![04563d34-cf6c-4be2-9418-5da174a26505](https://github.com/matsubo/matsubo/assets/98103/ce2ce477-0f05-4ce0-856a-fe7294ba4027) | Mackerel plugin for APC UPS stats | [https://github.com/matsubo/mackerel-plugin-apcupsd](https://github.com/matsubo/mackerel-plugin-apcupsd) | Golang |
 | <img src="https://github.com/user-attachments/assets/0a118ccc-fce3-4689-9b84-db99e469c780" width="48"> | Triathlon Time Tracker | [https://sado-xi.vercel.app/](https://sado-xi.vercel.app/)| Front: React, Back: Python, Ruby, Gist |
+|  | Amazon Affiliate Link Generator Chrome Extension for Cocoon | https://github.com/matsubo/cocoon-amazon-shortcode | JavaScript |
+
 
 
 
