@@ -55,7 +55,7 @@ Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free t
 
 ## Get in touch
 - Twitter: https://x.com/matsubokkuri
-- Tech blog: https://bkog.teraren.com/
+- Tech blog: https://blog.teraren.com/
 - Food/Travel IG: https://instagram.com/matsubobo
 - Photo: https://500px.com/matsubokkuri
 
