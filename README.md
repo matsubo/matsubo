@@ -28,6 +28,8 @@ Hi, I'm Yuki —CTO at Minedia, Inc. working on creating new services to world b
 | <img src="https://github.com/user-attachments/assets/0a118ccc-fce3-4689-9b84-db99e469c780" width="48"> | Triathlon Time Tracker | [https://sado-xi.vercel.app/](https://sado-xi.vercel.app/)| Front: React, Back: Python, Ruby, Gist |
 | <img src="https://ai-moderator.teraren.com/icon.png" width="48" style="background-color: white"> | AI Moderator | [https://ai-moderator.teraren.com/](https://ai-moderator.teraren.com/)| Ruby 3.4 + Ruby on Rails 8.0 |
 |  | Amazon Affiliate Link Generator Chrome Extension for Cocoon | https://github.com/matsubo/cocoon-amazon-shortcode | JavaScript |
+| <img src="https://github.com/user-attachments/assets/0a118ccc-fce3-4689-9b84-db99e469c780" width="48"> | Triathlon Result AI Analyzer | [https://v0-triathlon-result-page.vercel.app/ ](https://v0-triathlon-result-page.vercel.app/)| Front: Next.js, TypeScript, Back: Vercel, Groq |
+
 
 
 
