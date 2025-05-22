@@ -2,8 +2,6 @@
 
 [![github pv](https://komarev.com/ghpvc/?username=matsubo)](https://github.com/matsubo)
 [![github pv](https://img.shields.io/github/followers/matsubo?label=follow&logo=github&style=flat)](https://github.com/matsubo)
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/matsubo/posts.svg)](http://qiita.com/matsubo)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/matsubo/contributions.svg)](http://qiita.com/matsubo)
 [![Likes](https://badgen.org/img/zenn/matsubokkuri/likes?style=plastic)](https://zenn.dev/matsubokkuri)
 [![Articles](https://badgen.org/img/zenn/matsubokkuri/articles?style=plastic)](https://zenn.dev/matsubokkuri)
 [![Scraps](https://badgen.org/img/zenn/matsubokkuri/scraps?style=plastic)](https://zenn.dev/matsubokkuri?tab=scraps)
