@@ -1,71 +1,156 @@
-# Yuki Matsukura
+<div align="center">
 
-[![github pv](https://komarev.com/ghpvc/?username=matsubo)](https://github.com/matsubo)
-[![github pv](https://img.shields.io/github/followers/matsubo?label=follow&logo=github&style=flat)](https://github.com/matsubo)
-[![Likes](https://badgen.org/img/zenn/matsubokkuri/likes?style=plastic)](https://zenn.dev/matsubokkuri)
-[![Articles](https://badgen.org/img/zenn/matsubokkuri/articles?style=plastic)](https://zenn.dev/matsubokkuri)
-[![Scraps](https://badgen.org/img/zenn/matsubokkuri/scraps?style=plastic)](https://zenn.dev/matsubokkuri?tab=scraps)
+# 👋 Hi, I'm Yuki Matsukura
 
-Hi, I'm Yuki —CTO at Minedia, Inc. working on creating new services to world better. I live in Tokyo, Japan and am a Japan native. 🙌 I'm a huge fan of DSLR, racing cars, triathlon and amature radio. 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CTO+at+Minedia%2C+Inc.;Full-Stack+Developer;API+Architect;Tech+Enthusiast" alt="Typing SVG" />
 
+### 🚀 Creating new services to make the world better | 📍 Tokyo, Japan
 
-## Developed apps
+[![github pv](https://komarev.com/ghpvc/?username=matsubo&color=58A6FF&style=for-the-badge)](https://github.com/matsubo)
+[![github followers](https://img.shields.io/github/followers/matsubo?label=Followers&logo=github&style=for-the-badge&color=58A6FF)](https://github.com/matsubo)
+[![Zenn Likes](https://badgen.net/img/zenn/matsubokkuri/likes?style=for-the-badge&color=58A6FF)](https://zenn.dev/matsubokkuri)
 
+</div>
 
-| Image                                                                                         | Service Name              | Website                       | Technology Stack                                 |
-|-----------------------------------------------------------------------------------------------|---------------------------|--------------------------------|--------------------------------------------------|
-| ![image](https://github.com/matsubo/matsubo/assets/98103/6a612b1d-6057-49b1-883e-09956a6c0793) | Postcode API service      | [postcode.teraren.com](https://postcode.teraren.com/) | Ruby 3.4 + Ruby on Rails 8.0 + Cloudflare, SQLite, Rest API + GraphQL |
-| ![image](https://github.com/matsubo/matsubo/assets/98103/36d7bb33-b50f-471b-9157-2ef13cfd9b59) | Bank code API service     | [bank.teraren.com](https://bank.teraren.com/)       | Ruby 3.4 + Ruby on Rails 8.0 + Cloudflare, SQLite, Rest API |
-| <img src="https://github.com/user-attachments/assets/127bf526-8ed3-4111-9e0a-eab092cfbcfe" width="48" width="48"> | Corporation API service   | [corporation.teraren.com](https://corporation.teraren.com/) | Ruby 3.4 + Ruby on Rails 8.0 + Cloudflare, MySQL 8, Rest API |
-| ![image](https://github.com/matsubo/matsubo/assets/98103/af5ee2a7-d2f9-4b04-aecb-d4e859da39df) | Train and Station API service   | [train.teraren.com](https://train.teraren.com/) | Ruby 3.4 + Ruby on Rails 8.0 + Cloudflare, SQLite, Rest API |
-| <img src="https://github.com/user-attachments/assets/f57ddcc8-51f5-406b-a0c7-170a56227052" width="48" height="48"> | School API service   | [school.teraren.com](https://school.teraren.com/) | Ruby 3.4 + Ruby on Rails 8.0 + Cloudflare, SQLite, Rest API |
-| <img src="https://github.com/matsubo/matsubo/assets/98103/2dd90f80-587c-473d-94fb-c8ca3132fa17" width="48"> | Covid 19 positive graph  | [covid19.teraren.com](https://covid19.teraren.com/) | Ruby 3.0 + Wordpress + Cloudflare, MySQL 8|
-| <img src="https://github.com/matsubo/matsubo/assets/98103/f7817421-60ad-4c68-ada5-0029583c2c77" width="48"> | A.D. <=> Japanese Calendar  | [seireki.teraren.com](https://seireki.teraren.com/) | Ruby 3.4 + Ruby on Rails 8.0 +  Cloudflare |
-| ![r48x48](https://github.com/matsubo/matsubo/assets/98103/3a564a84-717a-4fe6-8651-0ba85c3e0ba9) | Roulette strategy simulator | https://github.com/matsubo/roulett-strategy-simulator | Ruby 3.4 + Gnuplot |
-| ![04563d34-cf6c-4be2-9418-5da174a26505](https://github.com/matsubo/matsubo/assets/98103/ce2ce477-0f05-4ce0-856a-fe7294ba4027) | Mackerel plugin for APC UPS stats | [https://github.com/matsubo/mackerel-plugin-apcupsd](https://github.com/matsubo/mackerel-plugin-apcupsd) | Golang |
-| <img src="https://github.com/user-attachments/assets/0a118ccc-fce3-4689-9b84-db99e469c780" width="48"> | Triathlon Time Tracker | [https://sado-xi.vercel.app/](https://sado-xi.vercel.app/)| Front: React, Back: Python, Ruby, Gist |
-| <img src="https://ai-moderator.teraren.com/icon.png" width="48" style="background-color: white"> | AI Moderator | [https://ai-moderator.teraren.com/](https://ai-moderator.teraren.com/)| Ruby 3.4 + Ruby on Rails 8.0 |
-|  | Amazon Affiliate Link Generator Chrome Extension for Cocoon | https://github.com/matsubo/cocoon-amazon-shortcode | JavaScript |
-| <img src="https://github.com/user-attachments/assets/0a118ccc-fce3-4689-9b84-db99e469c780" width="48"> | Triathlon Result AI Analyzer | [https://ai-triathlon-result.teraren.com/](https://ai-triathlon-result.teraren.com/)| Front: Next.js, TypeScript, Back: Vercel, Groq |
+---
 
+## 🎯 About Me
 
+```typescript
+const yuki = {
+    role: "CTO at Minedia, Inc.",
+    location: "Tokyo, Japan 🇯🇵",
+    passions: ["📸 DSLR Photography", "🏎️ Racing Cars", "🏊‍♂️ Triathlon", "📻 Amateur Radio"],
+    mindset: "Beginner's curiosity meets engineering excellence",
+    mission: "Building APIs and services that developers love to use"
+};
+```
 
+## 🛠️ Tech Stack
 
+<div align="center">
 
-### GitHub Streak
+### Languages & Frameworks
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Infrastructure & Tools
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 API Services Collection
+**Modern REST & GraphQL APIs for Japanese data**
+
+- 📮 [Postcode API](https://postcode.teraren.com/) - Japanese postal codes
+- 🏦 [Bank Code API](https://bank.teraren.com/) - Banking institution codes  
+- 🏢 [Corporation API](https://corporation.teraren.com/) - Company information
+- 🚄 [Train & Station API](https://train.teraren.com/) - Railway data
+- 🏫 [School API](https://school.teraren.com/) - Educational institutions
+
+**Tech:** Ruby 3.4, Rails 8.0, Cloudflare, MySQL/SQLite
+
+</td>
+<td width="50%">
+
+### 🤖 AI-Powered Tools
+**Intelligent applications for modern workflows**
+
+- 🛡️ [AI Moderator](https://ai-moderator.teraren.com/) - Content moderation
+- 🏊‍♂️ [Triathlon AI Analyzer](https://ai-triathlon-result.teraren.com/) - Performance insights
+- 📊 [Triathlon Time Tracker](https://sado-xi.vercel.app/) - Race tracking
+
+**Tech:** Next.js, TypeScript, Python, Groq, Vercel
+
+</td>
+</tr>
+</table>
+
+### 🔧 Developer Tools & Utilities
+
+<details>
+<summary>Click to expand full project list</summary>
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🎲 [Roulette Strategy Simulator](https://github.com/matsubo/roulett-strategy-simulator) | Mathematical gambling analysis | Ruby, Gnuplot |
+| 📊 [Mackerel APC UPS Plugin](https://github.com/matsubo/mackerel-plugin-apcupsd) | Infrastructure monitoring | Go |
+| 🛒 [Amazon Affiliate Extension](https://github.com/matsubo/cocoon-amazon-shortcode) | Chrome extension for Cocoon theme | JavaScript |
+| 📅 [Japanese Calendar Converter](https://seireki.teraren.com/) | A.D. ↔ Japanese era conversion | Ruby, Rails |
+| 📈 [COVID-19 Tracker](https://covid19.teraren.com/) | Pandemic data visualization | Ruby, WordPress |
+
+</details>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matsubo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsubo&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matsubo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=matsubo&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=matsubo&theme=tokyonight&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
+## 💭 My Philosophy
 
+<div align="center">
 
-## My values
-💖 Safety and trust<br>
-🌟 Expression as authentic self<br>
-🍏 Beginner's mindset and curiosity<br>
-🙌 Shared norms<br>
-🚀 Elevate the underrepresented
+| Value | Description |
+|-------|-------------|
+| 💖 **Safety & Trust** | Building secure, reliable systems |
+| 🌟 **Authentic Expression** | Code with personality and purpose |
+| 🍏 **Beginner's Mindset** | Always learning, always curious |
+| 🙌 **Shared Standards** | Collaborative excellence |
+| 🚀 **Elevate Others** | Lifting up underrepresented voices |
 
-## How I work
-My motivations are to stabilize and provide clarity through curiosity.
-That tends to manifest as creating (hopefully) just enough process.
-Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
+</div>
 
-## Get in touch
-- Twitter: https://x.com/matsubokkuri
-- Tech blog: https://blog.teraren.com/
-- Food/Travel IG: https://instagram.com/matsubobo
-- Photo: https://500px.com/matsubokkuri
+## 🎯 How I Work
 
-## Links
+> **My motivation:** Stabilize and provide clarity through curiosity  
+> **My method:** Creating just enough process, with checklists as my secret weapon ✅  
+> **My style:** If I'm too much in my head, nudge me to share what's brewing 😸
 
-- Tech article
-  - https://zenn.dev/matsubokkuri
-- Blog
-  - https://blog.teraren.com/
-- Diary
-  - https://diary.teraren.com/
-  
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/matsubokkuri)
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/matsubokkuri)
+[![Blog](https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.teraren.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matsubobo)
+[![500px](https://img.shields.io/badge/500px-0099E5?style=for-the-badge&logo=500px&logoColor=white)](https://500px.com/matsubokkuri)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎨 "Code is poetry, APIs are art, and every bug is a learning opportunity"
+
+*Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out.* 🚀
+
+</div>
