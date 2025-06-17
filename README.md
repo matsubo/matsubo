@@ -8,7 +8,7 @@
 
 [![github pv](https://komarev.com/ghpvc/?username=matsubo&color=58A6FF&style=for-the-badge)](https://github.com/matsubo)
 [![github followers](https://img.shields.io/github/followers/matsubo?label=Followers&logo=github&style=for-the-badge&color=58A6FF)](https://github.com/matsubo)
-[![Zenn Likes](https://badgen.net/img/zenn/matsubokkuri/likes?style=for-the-badge&color=58A6FF)](https://zenn.dev/matsubokkuri)
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/matsubokkuri)
 
 </div>
 
@@ -20,7 +20,7 @@
 const yuki = {
     role: "CTO at Minedia, Inc.",
     location: "Tokyo, Japan 🇯🇵",
-    passions: ["📸 DSLR Photography", "🏎️ Racing Cars", "🏊‍♂️ Triathlon", "📻 Amateur Radio"],
+    passions: ["📸 iPhone Photography", "🏎️ Racing Cars", "🏊‍♂️ Triathlon", "📻 Amateur Radio", "️👶 Parenting Hacks"],
     mindset: "Beginner's curiosity meets engineering excellence",
     mission: "Building APIs and services that developers love to use"
 };
@@ -129,8 +129,8 @@ const yuki = {
 
 ## 🎯 How I Work
 
-> **My motivation:** Stabilize and provide clarity through curiosity  
-> **My method:** Creating just enough process, with checklists as my secret weapon ✅  
+> **My motivation:** Stabilize and provide clarity through curiosity
+> **My method:** Creating just enough process, with checklists as my secret weapon ✅
 > **My style:** If I'm too much in my head, nudge me to share what's brewing 😸
 
 ## 🌐 Connect With Me
