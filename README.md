@@ -83,9 +83,6 @@ const yuki = {
 
 ### 🔧 Developer Tools & Utilities
 
-<details>
-<summary>Click to expand full project list</summary>
-
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🎲 [Roulette Strategy Simulator](https://github.com/matsubo/roulett-strategy-simulator) | Mathematical gambling analysis | Ruby, Gnuplot |
@@ -94,7 +91,6 @@ const yuki = {
 | 📅 [Japanese Calendar Converter](https://seireki.teraren.com/) | A.D. ↔ Japanese era conversion | Ruby, Rails |
 | 📈 [COVID-19 Tracker](https://covid19.teraren.com/) | Pandemic data visualization | Ruby, WordPress |
 
-</details>
 
 ## 📊 GitHub Analytics
 
