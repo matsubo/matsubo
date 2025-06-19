@@ -20,7 +20,7 @@
 const yuki = {
     role: "CTO at Minedia, Inc.",
     location: "Tokyo, Japan 🇯🇵",
-    passions: ["📸 iPhone Photography", "🏎️ Racing Cars", "🏊‍♂️ Triathlon", "📻 Amateur Radio", "️👶 Parenting Hacks"],
+    passions: ["📸 iPhone Photography", "🏎️ Racing Cars", "🏊‍♂️ Triathlon", "📻 Amateur Radio", "️👶 Parenting Hacks", "🪚 DIY"],
     mindset: "Beginner's curiosity meets engineering excellence",
     mission: "Building APIs and services that developers love to use"
 };
