@@ -29,8 +29,8 @@ const yuki = {
 ## 🛠️ Tech Stack
 
 <div align="center">
+## Languages & Frameworks
 
-### Languages & Frameworks
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,13 +38,32 @@ const yuki = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### Infrastructure & Tools
+## Infrastructure & Tools
+
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=for-the-badge)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+## OS
+
+![Linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=for-the-badge)
+![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=for-the-badge)
+![RedHat](https://img.shields.io/badge/-RedHat-EE0000.svg?logo=red-hat&style=for-the-badge)
+![Debian](https://img.shields.io/badge/-Debian-A81D33.svg?logo=debian&style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=for-the-badge)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-EEE.svg?logo=arch-linux&style=for-the-badge)
+
+## Editors
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=for-the-badge)
+![Vim](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=for-the-badge)
+
+
 
 </div>
 
@@ -133,7 +152,7 @@ const yuki = {
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/matsubokkuri)
+[![Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/matsubokkuri)
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/matsubokkuri)
 [![Blog](https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.teraren.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matsubobo)
