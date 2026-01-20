@@ -82,7 +82,7 @@ const yuki = {
 - 🚄 [Train & Station API](https://train.teraren.com/) - Railway data
 - 🏫 [School API](https://school.teraren.com/) - Educational institutions
 
-**Tech:** Ruby 3.4, Rails 8.0, Cloudflare, MySQL/SQLite
+**Tech:** Ruby 3.4/4.0, Rails 8.1, Cloudflare, MySQL/SQLite
 
 </td>
 <td width="50%">
@@ -90,8 +90,8 @@ const yuki = {
 ### 🤖 AI-Powered Tools
 **Intelligent applications for modern workflows**
 
-- 🛡️ [AI Moderator](https://ai-moderator.teraren.com/) - Content moderation
-- 🏊‍♂️ [Triathlon AI Analyzer](https://ai-triathlon-result.teraren.com/) - Performance insights
+- 🛡️ [AI Moderator](https://ai-moderator.teraren.com/) - AI Moderator on online meetings.
+- 🏊‍♂️ [Triathlon AI Analyzer](https://ai-triathlon-result.teraren.com/) - Performance insights, Training planning and tracking with AI
 - 📊 [Triathlon Time Tracker](https://sado-xi.vercel.app/) - Race tracking
 
 **Tech:** Next.js, TypeScript, Python, Groq, Vercel
@@ -106,9 +106,9 @@ const yuki = {
 |---------|-------------|------------|
 | 🎲 [Roulette Strategy Simulator](https://github.com/matsubo/roulett-strategy-simulator) | Mathematical gambling analysis | Ruby, Gnuplot |
 | 📊 [Mackerel APC UPS Plugin](https://github.com/matsubo/mackerel-plugin-apcupsd) | Infrastructure monitoring | Go |
-| 🛒 [Amazon Affiliate Extension](https://github.com/matsubo/cocoon-amazon-shortcode) | Chrome extension for Cocoon theme | JavaScript |
+| 🛒 [Amazon Affiliate Extension](https://github.com/matsubo/cocoon-amazon-shortcode) | Chrome extension for Cocoon theme | TypeScript |
 | 📅 [Japanese Calendar Converter](https://seireki.teraren.com/) | A.D. ↔ Japanese era conversion | Ruby, Rails |
-| 📈 [COVID-19 Tracker](https://covid19.teraren.com/) | Pandemic data visualization | Ruby, WordPress |
+| 📈 [COVID-19 Tracker](https://covid19.teraren.com/) | Pandemic data visualization | Ruby, Astro |
 
 
 ## 📊 GitHub Analytics
@@ -152,7 +152,7 @@ const yuki = {
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/matsubokkuri)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/matsubokkuri)
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/matsubokkuri)
 [![Blog](https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.teraren.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matsubobo)
