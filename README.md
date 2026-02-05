@@ -109,6 +109,7 @@ const yuki = {
 | 🛒 [Amazon Affiliate Extension](https://github.com/matsubo/cocoon-amazon-shortcode) | Chrome extension for Cocoon theme | TypeScript |
 | 📅 [Japanese Calendar Converter](https://seireki.teraren.com/) | A.D. ↔ Japanese era conversion | Ruby, Rails |
 | 📈 [COVID-19 Tracker](https://covid19.teraren.com/) | Pandemic data visualization | Ruby, Astro |
+| 🏃 [Marathon Pace Calculator](https://matsubo.github.io/marathon-pace/) | Running pace calculator | Vite, React, Tailwind, TypeScript |
 | 📻 [Offline QTH](https://github.com/matsubo/offline-qth) | Amateur radio location lookup tool | - |
 
 
