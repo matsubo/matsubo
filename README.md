@@ -65,10 +65,45 @@ Building APIs and services that developers love to use. Active open source contr
 
 **158 Repositories** • **175 Gists** • **77 Followers** • **Active Since 2009**
 
+### 📈 Stats Overview
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matsubo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsubo&layout=compact&langs_count=8&theme=tokyonight"/>
 
+### 🔥 Streak Stats
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matsubo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=matsubo&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📊 Contribution & Activity Stats
+
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matsubo&theme=tokyonight)
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matsubo&theme=tokyonight" height="180em"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matsubo&theme=tokyonight" height="180em"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matsubo&theme=tokyonight" height="180em"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matsubo&theme=tokyonight&utcOffset=9" height="180em"/>
+
+### 📉 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matsubo&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=628fdb&point=38bdae&area=true&hide_border=false)
+
+### 💻 GitHub Metrics
+
+![Metrics](https://metrics.lecoq.io/matsubo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&activity=1&followup=1&posts=1&repositories=1&discussions=1&code=1&habits=1&isocalendar=1&stargazers=1&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&posts.limit=4&posts.source=dev.to&repositories.featured=emoji-sprite%2C%20redis-ranking%2C%20matsu-shell-setting%2C%20spike-ruby&discussions.categories=true&code.lines=12&code.load=400&code.days=3&code.visibility=public&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&isocalendar.duration=half-year&stargazers.charts=false&stargazers.charts.type=classic&config.timezone=Asia%2FTokyo&config.twemoji=true&config.octicon=true&config.display=large)
+
+### 📊 Detailed Code Metrics
+
+![Code Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matsubo&theme=tokyonight&utcOffset=9)
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </div>
 
