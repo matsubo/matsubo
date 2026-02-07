@@ -60,7 +60,9 @@ const yuki = {
 
 ## Editors
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=for-the-badge)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC9966?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=for-the-badge)
 
 
@@ -77,7 +79,7 @@ const yuki = {
 **Modern REST & GraphQL APIs for Japanese data**
 
 - 📮 [Postcode API](https://postcode.teraren.com/) - Japanese postal codes
-- 🏦 [Bank Code API](https://bank.teraren.com/) - Banking institution codes  
+- 🏦 [Bank Code API](https://bank.teraren.com/) - Banking institution codes
 - 🏢 [Corporation API](https://corporation.teraren.com/) - Company information
 - 🚄 [Train & Station API](https://train.teraren.com/) - Railway data
 - 🏫 [School API](https://school.teraren.com/) - Educational institutions
@@ -104,13 +106,14 @@ const yuki = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| 🏔️ [SOTA Peak Finder](https://matsubo.github.io/sota-peak-finder/) | Amateur radio peak location tool | React, TypeScript |
+| 🏃 [Marathon Pace Calculator](https://matsubo.github.io/marathon-pace/) | Running pace calculator | Vite, React, Tailwind, TypeScript |
 | 🎲 [Roulette Strategy Simulator](https://github.com/matsubo/roulett-strategy-simulator) | Mathematical gambling analysis | Ruby, Gnuplot |
 | 📊 [Mackerel APC UPS Plugin](https://github.com/matsubo/mackerel-plugin-apcupsd) | Infrastructure monitoring | Go |
 | 🛒 [Amazon Affiliate Extension](https://github.com/matsubo/cocoon-amazon-shortcode) | Chrome extension for Cocoon theme | TypeScript |
 | 📅 [Japanese Calendar Converter](https://seireki.teraren.com/) | A.D. ↔ Japanese era conversion | Ruby, Rails |
 | 📈 [COVID-19 Tracker](https://covid19.teraren.com/) | Pandemic data visualization | Ruby, Astro |
-| 🏃 [Marathon Pace Calculator](https://matsubo.github.io/marathon-pace/) | Running pace calculator | Vite, React, Tailwind, TypeScript |
-| 📻 [Offline QTH](https://github.com/matsubo/offline-qth) | Amateur radio location lookup tool | - |
+| 📻 [Offline QTH](https://github.com/matsubo/offline-qth) | Amateur radio location lookup tool | React, TypeScript |
 
 
 ## 📊 GitHub Analytics
@@ -127,6 +130,22 @@ const yuki = {
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matsubo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=matsubo&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+### 📈 Additional Stats
+
+<div align="center">
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matsubo&theme=tokyonight)
+
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matsubo&theme=tokyonight)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matsubo&theme=tokyonight)
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matsubo&theme=tokyonight)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matsubo&theme=tokyonight&utcOffset=9)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=matsubo&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=628fdb&point=38bdae&area=true&hide_border=false)
 
 </div>
 
