@@ -18,7 +18,7 @@
 
 CTO at Minedia, Inc. | 20+ Years in Software Engineering | Tokyo, Japan 🇯🇵
 
-Building APIs and services that developers love to use. Active open source contributor since 2009 with **161 repositories** and **175 gists**.
+Building APIs and services that developers love to use. Active open source contributor since 2009 with **173 repositories** and **177 gists**.
 
 ### 🌐 Want to know more?
 **👉 [Visit my portfolio](https://matsubo.github.io/)** for detailed projects, experience, and technical writing.
@@ -50,6 +50,11 @@ Building APIs and services that developers love to use. Active open source contr
 ### 🔧 Developer Tools
 🏔️ [SOTA Peak Finder](https://matsubo.github.io/sota-peak-finder/) • 🏃 [Marathon Pace Calculator](https://matsubo.github.io/marathon-pace/) • 📻 [Offline QTH](https://github.com/matsubo/offline-qth) • 📅 [Calendar Converter](https://seireki.teraren.com/)
 
+### 🆕 Recently Released OSS
+- 🎙️ [voice-memo-stt](https://github.com/matsubo/voice-memo-stt) — Go CLI (`vmt`) to transcribe macOS Voice Memos via pluggable STT engines (ElevenLabs Scribe, CLI/TUI/Alfred Workflow)
+- 📊 [claude-code-max-usage](https://github.com/matsubo/claude-code-max-usage) — Shell tool to track Claude Code Max plan usage
+- 📡 [graphs1090](https://github.com/matsubo/graphs1090) — Graphs for readsb / dump1090-fa / dump1090 ADS-B receivers
+
 **➡️ [See all projects on my portfolio](https://matsubo.github.io/)**
 
 ## ⭐ Popular Open Source
@@ -63,7 +68,7 @@ Building APIs and services that developers love to use. Active open source contr
 
 <div align="center">
 
-**161 Repositories** • **175 Gists** • **78 Followers** • **Active Since 2009**
+**173 Repositories** • **177 Gists** • **80 Followers** • **Active Since 2009**
 
 ### 🔥 Streak Stats
 
