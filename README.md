@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=180&section=header&text=Yuki%20Matsukura&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=CTO%20%40%20Minedia%2C%20Inc.%20%E2%80%94%20Tokyo%2C%20Japan&descAlignY=58&descSize=16" alt="Yuki Matsukura — CTO at Minedia, Inc., Tokyo, Japan" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=CTO+at+Minedia%2C+Inc.;20%2B+years+of+building+software;LLM+%2F+AI+platform+engineering;API+architect+%26+OSS+maintainer" alt="CTO at Minedia, Inc. / 20+ years of building software / LLM / AI platform engineering / API architect and OSS maintainer" />
-
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-matsubo.github.io-4A90E2?style=for-the-badge&logo=githubpages&logoColor=white)](https://matsubo.github.io/)
@@ -46,14 +44,6 @@ Day to day I build **LLM-powered products** and **small, sharp APIs** for Japane
 
 </td>
 <td width="50%" valign="top">
-
-**✍️ Latest from [blog.teraren.com](https://blog.teraren.com/)**
-
-- [Amex Bonvoy の無料宿泊券でウェスティンホテル横浜に宿泊](https://blog.teraren.com/posts/2026-09-10-amex-bonvoy-westin-yokohama/) <sub>2026-09-10</sub>
-- [日記ブログ diary.teraren.com を blog.teraren.com に統合しました](https://blog.teraren.com/posts/diary-merged-into-blog/) <sub>2026-09-05</sub>
-- [パルダリウム2年3ヶ月の記録](https://blog.teraren.com/posts/2026-08-20-paludarium/) <sub>2026-08-20</sub>
-- [US配列キーボードの遍歴 2012–2026](https://blog.teraren.com/posts/2026-08-07-keyboard-history-us-layout/) <sub>2026-08-07</sub>
-- [SATA 直結の自作 NAS に作り直した（JONSBO N4 + mergerfs + SnapRAID）](https://blog.teraren.com/posts/2026-07-17-nas-diy-v2-jonsbo-n4-sata/) <sub>2026-07-17</sub>
 
 **📝 Technical writing on Zenn**
 
