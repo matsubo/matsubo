@@ -22,30 +22,11 @@ Day to day I build **LLM-powered products** and **small, sharp APIs** for Japane
 
 ## 🔭 What I'm shipping
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🆕 Recent open source**
-
 - **[voice-memo-stt](https://github.com/matsubo/voice-memo-stt)** `Go`<br />Transcribe macOS Voice Memos via pluggable STT engines — CLI, TUI and Alfred Workflow.
 - **[agent-skills](https://github.com/matsubo/agent-skills)** `Shell`<br />Personal Claude Code skills, shipped as a plugin marketplace.
 - **[scope1090](https://github.com/matsubo/scope1090)** `Python`<br />ADS-B receiver dashboard — ECharts, SQLite time-series, minimal SD-card writes.
 - **[astro-affiliate-card](https://github.com/matsubo/astro-affiliate-card)** `TypeScript`<br />Amazon / Rakuten / Yahoo! product cards for Astro *(also as a [remark plugin](https://github.com/matsubo/remark-affiliate-card))*.
 - **[claude-code-max-usage](https://github.com/matsubo/claude-code-max-usage)** `Shell`<br />Track Claude Code Max plan usage from the shell.
-
-</td>
-<td width="50%" valign="top">
-
-**📝 Technical writing on Zenn**
-
-- [アンケート回答を代替する LLM 個人モデル：N=1 予備実験](https://zenn.dev/minedia/articles/2026-05-25-ai-consumer-panel-digital-twin)
-- [Realtime 音声モデルに定性調査インタビューをやらせる](https://zenn.dev/minedia/articles/realtime-model-ai-moderator)
-- [Coolify セルフホスト PaaS 連載（全8回）](https://zenn.dev/matsubokkuri/articles/2026-03-13-coolify-why-self-hosted-paas)
-
-</td>
-</tr>
-</table>
 
 ---
 
