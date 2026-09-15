@@ -2,17 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=180&section=header&text=Yuki%20Matsukura&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=CTO%20%40%20Minedia%2C%20Inc.%20%E2%80%94%20Tokyo%2C%20Japan&descAlignY=58&descSize=16" alt="Yuki Matsukura — CTO at Minedia, Inc., Tokyo, Japan" width="100%" />
 
-<br />
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-matsubo.github.io-4A90E2?style=for-the-badge&logo=githubpages&logoColor=white)](https://matsubo.github.io/)
 [![Blog](https://img.shields.io/badge/Blog-blog.teraren.com-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://blog.teraren.com/)
 [![Zenn](https://img.shields.io/badge/Zenn-matsubokkuri-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/matsubokkuri)
-
-[![Followers](https://img.shields.io/github/followers/matsubo?label=Followers&logo=github&style=flat-square&color=58A6FF)](https://github.com/matsubo?tab=followers)
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmatsubo&query=%24.public_repos&label=Repos&logo=github&style=flat-square&color=58A6FF)](https://github.com/matsubo?tab=repositories)
-[![Gists](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmatsubo&query=%24.public_gists&label=Gists&logo=github&style=flat-square&color=58A6FF)](https://gist.github.com/matsubo)
-[![Since](https://img.shields.io/badge/on_GitHub_since-2009-58A6FF?style=flat-square&logo=github)](https://github.com/matsubo)
-[![Views](https://komarev.com/ghpvc/?username=matsubo&color=58A6FF&style=flat-square&label=Profile+views)](https://github.com/matsubo)
 
 </div>
 
@@ -124,12 +116,6 @@ REST APIs that turn messy Japanese public data into something you can actually `
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matsubo/matsubo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matsubo/matsubo/output/github-snake.svg" />
-  <img alt="A snake eating my GitHub contribution grid" src="https://raw.githubusercontent.com/matsubo/matsubo/output/github-snake.svg" />
-</picture>
-
 <table>
 <tr>
 <td width="50%"><img src="https://streak-stats.demolab.com?user=matsubo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak" width="100%" /></td>
@@ -161,19 +147,7 @@ REST APIs that turn messy Japanese public data into something you can actually `
 
 </details>
 
----
-
-## 🌐 Connect
-
 <div align="center">
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/matsubokkuri)
-[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/matsubokkuri)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://blog.teraren.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matsubobo)
-[![500px](https://img.shields.io/badge/500px-0099E5?style=for-the-badge&logo=500px&logoColor=white)](https://500px.com/matsubokkuri)
-
-<sub>Off the keyboard: triathlon 🏊‍♂️🚴‍♂️🏃‍♂️, amateur radio 📻 (JE1WFV), photography 📷, and ADS-B receivers on the roof ✈️</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=120&section=footer" alt="" width="100%" />
 
