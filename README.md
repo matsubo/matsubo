@@ -10,8 +10,6 @@
 
 ---
 
-## About
-
 I lead technology at **[Minedia, Inc.](https://corporate.minedia.com/)**, a data-technology startup in Tokyo — strategy, architecture, and the engineering team behind it. Earlier: social gaming platform development at **GREE**, and **SPIKE**, a zero-fee payment service, at **Metaps**.
 
 Day to day I build **LLM-powered products** and **small, sharp APIs** for Japanese open data. Two patents, a Springer-published paper on regional EC data analysis, and open source since 2009.
@@ -32,8 +30,6 @@ Day to day I build **LLM-powered products** and **small, sharp APIs** for Japane
 
 ## Featured Projects
 
-### Open Data APIs for Japan
-
 Messy Japanese public data, normalized and served as JSON. Free, no account, no rate limit, behind a CDN.
 
 ```console
@@ -46,7 +42,7 @@ $ curl -s $API/postcodes/1600023.json \
 }
 ```
 
-| API | What it serves |
+| Open data API | What it serves |
 | :--- | :--- |
 | **[postcode.teraren.com](https://postcode.teraren.com/)** | Postal codes, prefectures and addresses |
 | **[bank.teraren.com](https://bank.teraren.com/)** | Banks and their branches |
@@ -56,16 +52,12 @@ $ curl -s $API/postcodes/1600023.json \
 | **[dam.teraren.com](https://dam.teraren.com/)** | Dams and reservoirs |
 | **[seireki.teraren.com](https://seireki.teraren.com/)** | Japanese era ⇄ Gregorian dates |
 
-### AI-Powered
-
-| Project | What it does |
+| AI product | What it does |
 | :--- | :--- |
 | **[AI Moderator](https://ai-moderator.teraren.com/)** | A realtime speech model that runs qualitative research interviews |
 | **[Triathlon AI Analyzer](https://ai-triathlon-result.teraren.com/)** | Race result analysis and pacing insight |
 
-### Tools you can open right now
-
-| Tool | What it does |
+| Browser tool | What it does |
 | :--- | :--- |
 | **[SOTA Peak Finder](https://matsubo.github.io/sota-peak-finder/)** | Summits worldwide, works offline anywhere |
 | **[Offline QTH](https://matsubo.github.io/offline-qth/)** | Maidenhead grid locator with no network |
@@ -85,8 +77,6 @@ Going deep right now on **LLM application architecture**, **OpenAPI-first micros
 </div>
 
 ---
-
-## GitHub Analytics
 
 <div align="center">
 
