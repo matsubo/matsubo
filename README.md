@@ -10,17 +10,17 @@
 
 ---
 
-## 🧭 About
+## About
 
 I lead technology at **[Minedia, Inc.](https://corporate.minedia.com/)**, a data-technology startup in Tokyo — strategy, architecture, and the engineering team behind it. Earlier: social gaming platform development at **GREE**, and **SPIKE**, a zero-fee payment service, at **Metaps**.
 
 Day to day I build **LLM-powered products** and **small, sharp APIs** for Japanese open data. Two patents, a Springer-published paper on regional EC data analysis, and open source since 2009.
 
-> 📄 **[Full portfolio →](https://matsubo.github.io/)** — research, patents, experience, and every project in detail.
+> **[Full portfolio →](https://matsubo.github.io/)** — research, patents, experience, and every project in detail.
 
 ---
 
-## 🔭 What I'm shipping
+## What I'm shipping
 
 - **[voice-memo-stt](https://github.com/matsubo/voice-memo-stt)** `Go`<br />Transcribe macOS Voice Memos via pluggable STT engines — CLI, TUI and Alfred Workflow.
 - **[agent-skills](https://github.com/matsubo/agent-skills)** `Shell`<br />Personal Claude Code skills, shipped as a plugin marketplace.
@@ -30,7 +30,7 @@ Day to day I build **LLM-powered products** and **small, sharp APIs** for Japane
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Open Data APIs for Japan
 
@@ -74,7 +74,7 @@ $ curl -s $API/postcodes/1600023.json \
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -86,34 +86,28 @@ Going deep right now on **LLM application architecture**, **OpenAPI-first micros
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%"><img src="https://streak-stats.demolab.com?user=matsubo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak" width="100%" /></td>
-<td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matsubo&theme=tokyonight" alt="Profile details" width="100%" /></td>
-</tr>
-<tr>
-<td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matsubo&theme=tokyonight" alt="Repositories per language" width="100%" /></td>
-<td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matsubo&theme=tokyonight" alt="Contribution stats" width="100%" /></td>
-</tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matsubo&theme=tokyonight" alt="Profile details: contributions, public repos and join date" width="100%" />
+
+<img src="https://streak-stats.demolab.com?user=matsubo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matsubo&theme=tokyonight" alt="Repositories per language" height="170" />
 
 </div>
 
 <details>
-<summary><b>⭐ Longest-running open source</b></summary>
+<summary><b>Longest-running open source</b></summary>
 
 <br />
 
 | Repo | Stars | What it is |
 | :--- | :--- | :--- |
-| [emoji-sprite](https://github.com/matsubo/emoji-sprite) | ⭐ 29 | CSS sprite and icons for emoji |
-| [redis-ranking](https://github.com/matsubo/redis-ranking) | ⭐ 21 | Redis sorted-set wrapper specialised for rankings |
-| [matsu-shell-setting](https://github.com/matsubo/matsu-shell-setting) | ⭐ 11 | My shell dotfiles |
-| [spike-ruby](https://github.com/matsubo/spike-ruby) | ⭐ 9 | SPIKE payment API client for Ruby |
+| [emoji-sprite](https://github.com/matsubo/emoji-sprite) | 29 | CSS sprite and icons for emoji |
+| [redis-ranking](https://github.com/matsubo/redis-ranking) | 21 | Redis sorted-set wrapper specialised for rankings |
+| [matsu-shell-setting](https://github.com/matsubo/matsu-shell-setting) | 11 | My shell dotfiles |
+| [spike-ruby](https://github.com/matsubo/spike-ruby) | 9 | SPIKE payment API client for Ruby |
 
 </details>
 
